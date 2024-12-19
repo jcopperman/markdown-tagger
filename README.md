@@ -51,4 +51,3 @@ This is a blog about productivity and focus.
 
 ## License
 This project is open-source and available under the MIT License.
-```
