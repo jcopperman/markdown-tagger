@@ -1,5 +1,5 @@
 ### README.md
-```markdown
+
 # Markdown File Tagger
 
 A Python script for automatically generating semantic tags for markdown files. This tool uses a language model (Ollama) to analyze the content of markdown files and prepend them with meaningful tags based on the content type and themes.
