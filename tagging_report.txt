@@ -1,0 +1,36 @@
+Tagging Report
+==================================================
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Book\Wired for Code.md with tags: <!-- Tags: ContentType: How-To/Guide, Topics: ADHD, Software Engineering, Career Development, Productivity, Mental Health, Leadership, Neurodiversity -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Book\Hard Coded\Index.md with tags: <!-- Tags: ContentType: Technical, Topics: SoftwareDevelopment, Workflow, FileManagement -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Book\Hard Coded\Notes.md with tags: <!-- Tags: ContentType: Article, Topics: CareerDevelopment, Technology, Coding -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Book\Hard Coded\The Unspoken Truths.md with tags: <!-- Tags: ContentType: PersonalEssay, Topics: Resilience, MentalHealth, Neurodiversity, SelfAcceptance, Empowerment -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Book\Hard Coded\TOC.md with tags: <!-- Tags: ContentType: Technical, Topics: ADHD, Software Development, Productivity, Collaboration, Burnout, WorkLife Balance, Creativity, Problem Solving, Neurodiversity, Diversity, Inclusion -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Calendar\2024-10-02.md with tags: <!-- Tags: ContentType: Schedule, Topics: Time, Events, Meetings, Interviews -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Calendar\2024-10-03.md with tags: <!-- Tags: ContentType: Schedule, Topics: TimeTable, Events, Interviews -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Hobbies\Sim Rally.md with tags: <!-- Tags: ContentType: Sports, Topics: Racing, Competitions, Records -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Journal\2024-09-26.md with tags: <!-- Tags: ContentType: Technical, Topics: ArtificialIntelligence, Research, Neurodiversity -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Journal\2024-10-02.md with tags: <!-- Tags: ContentType: Personal, Topics: JobSeeking, Entrepreneurship, StartupLife, CareerDevelopment -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Journal\2024-10-03.md with tags: <!-- Tags: ContentType: Personal, Topics: JobSearch, CareerDevelopment, FinancialStruggles -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Notes\Data anon.md with tags: <!-- Tags: ContentType: Technical, Topics: AWS, API Gateway, Lambda Function, SQS, S3 Buckets -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Notes\Fleeting idea.md with tags: <!-- Tags: ContentType: Guide, Topics: Technology, Media, Online Content -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Notes\My manifest.md with tags: <!-- Tags: ContentType: Personal, Topics: Autonomy, Creativity, Productivity, WorkLifeBalance, RemoteWork, PassionDriven, SelfMotivation, Entrepreneurship -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Notes\Quai.md with tags: <!-- Tags: ContentType: TechnicalDocumentation, Topics: AIpoweredTestAutomation, TestStudio, Quai, LangChain, Llama32, TestOrchestration, DevOpsIntegration, CIpipelineintegration -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Notes\Roadmap Planner app.md with tags: <!-- Tags: ContentType: How-to, Topics: Agile Planning, Productivity, Project Management, Scrum, Kanban -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Notes\Tauri.md with tags: <!-- Tags: ContentType: Guide, Topics: SoftwareDevelopment, OpenSource, README, Startup, Tutorial, Prerequisites, Documentation -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Notes\Wish List.md with tags: <!-- Tags: ContentType: Product, Topics: Bags, Accessories, Fashion -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Tasks\Job search.md with tags: <!-- Tags: ContentType: JobAd, Topics: Career, JobSearch, Technology -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Tasks\Langchain POC.md with tags: <!-- Tags: ContentType: Technical, Topics: AI, Automation, Testing, Studio, Tauri, Puppeteer, LangChain -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Tasks\Local Knowledge base with RAG.md with tags: <!-- Tags: ContentType: Code, Topics: NaturalLanguageProcessing, Markdown, NLP, TextAnalysis -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Work\Resume.md with tags: <!-- Tags: ContentType: Resume, Topics: SoftwareDevelopment, ProblemSolving, Automation, DevOps, QualityAssurance, JavaScript, Python -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Work\Streamlit graph.md with tags: <!-- Tags: ContentType: Technical/How-to, Topics: AWS Lambda, Serverless Architecture, Data Security, Web Development, Streamlit, Cloud Computing -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Work\Career\Study.md with tags: <!-- Tags: ContentType: CareerDevelopmentGuide, Topics: SoftwareDevelopment, TransitionQAtoDev, FullStack, Frontend, Backend, DevOps, Testing, SoftSkills -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Work\Quai\MVP.md with tags: <!-- Tags: ContentType: DevelopmentGuide, Topics: MVPDevelopment, LangChainIntegration, TestAutomation, WeekendChallenge -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Work\Quai\Marketing\Promote.md with tags: <!-- Tags: ContentType: MarketingStrategy, Topics: ProductLaunch, SocialMedia, EmailMarketing, CommunityEngagement, InfluencerOutreach, ContentMarketing, Partnerships, ReferralProgram -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Work\Startup\DOM Don\Marketing.md with tags: <!-- Tags: ContentType: Product Description, Topics: DataCollection, ProductivityTools, BusinessBenefits, MarketingStrategy, SubscriptionFatigue -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Work\Startup\KYC\Technical Design Document.md with tags: <!-- Tags: ContentType: TechnicalDocumentation, Topics: NLP, APIIntegration, Nextjs, Vercel, KYC, SearchSystem -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Work\Startup\NullId\Null Id Technical.md with tags: <!-- Tags: ContentType: Technical, Topics: CloudComputing, AWS, Docker, Microservices, Nextjs, APIIntegration -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Work\Startup\NullId\NullId Business Plan.md with tags: <!-- Tags: ContentType: BusinessPlan, Topics: DataAnonymization, CloudComputing, Entrepreneurship, MarketResearch, SecuritySoftware -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Work\Startup\Project Helix\Project Helix Pitch.md with tags: <!-- Tags: ContentType: Technical/Marketing, Topics: ArtificialIntelligence, Automation, WebsiteTesting, QualityAssurance, SoftwareDevelopment -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Draft\Writing\The 4 C's of Motivation.md with tags: <!-- Tags: ContentType: Article, Topics: Productivity, GoalSetting, Motivation, TimeManagement, ADHD, PersonalGrowth -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Focus\Null Id Infra.md with tags: <!-- Tags: ContentType: Configuration, Topics: AWS, CloudFormation, Stack, API -->
+Tagged: C:\Users\Opes\Documents\Clarity\Vault\Focus\Secrets.md with tags: <!-- Tags: ContentType: Configuration, Topics: AWS, CloudFormation, API, Paddle, Stripe -->
